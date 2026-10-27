@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C# and build artifacts
+bin/
+obj/
+*.user
+*.suo
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output directories
+atgs_extracted/
+*.zip
+sample_game_strings_shaped.json

@@ -1,0 +1,7 @@
+{
+  "ui_start_game": "Start Game",
+  "ui_options": "Options",
+  "ui_inventory": "Inventory",
+  "ui_energy_status": "Current Energy: {0}% (Normal)",
+  "dialog_quest_intro": "<color=#FFFF00>Commander</color>, build a conveyor belt to connect the iron miner to the smelter! Otherwise, production will stop."
+}
